@@ -1,4 +1,3 @@
-// src/App.tsx
 import { useEffect, useState } from "react";
 import { fetchCats } from "./api/catApi";
 import { Header } from "./components/Header";
